@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there 🚀
+
++ 👋 I’m @jabittegerne
++ 🐭 Based in Dortmund, Germany
++ 🌱 Currently learning to code
+
+✨ I am new here! Starting something new can be scary, so I appreciate any help you can provide, whether it's sharing tips, answering questions, or just being friendly. 
+<em>Thank you for your support!</em> ✨
+
+
 
 <!--
 **jabittegerne/jabittegerne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
