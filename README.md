@@ -4,7 +4,7 @@
 + 🐭 Based in Dortmund, Germany
 + 🌱 Currently learning to code
 
-✨ I am new here! Starting something new can be scary, so I appreciate any help you can provide, whether it's sharing tips, answering questions, or just being friendly. 
+✨Starting something new can be scary, so I appreciate any help you can provide, whether it's sharing tips, answering questions, or just being friendly. 
 <em>Thank you for your support!</em> ✨
 
 
